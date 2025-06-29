@@ -16,7 +16,7 @@ This is a terminal-based AI agent built with Python, Ollama, and OpenChat. It us
     ```
 4. Run the agent:
     ```bash
-    python rag_agent.py
+    python RAG_AGENT.py
     ```
 
 > Developed by Sankeerth C V
